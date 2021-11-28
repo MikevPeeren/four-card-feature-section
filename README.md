@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nextjs-tailwindcss-typescript-responsive-four-card-layout-JK0IE90OP)
 - Live Site URL: [Website](https://four-card-feature-section-olive-gamma.vercel.app/)
 
 ## My process
