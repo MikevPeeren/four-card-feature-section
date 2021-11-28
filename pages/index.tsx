@@ -1,6 +1,5 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
@@ -12,14 +11,13 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <div className="min-h-screen w-full flex justify-center items-center">
-          <h1>
-            Reliable, efficient delivery <strong>Powered by Technology</strong>
-          </h1>
-          <h2>
+        <div className="min-h-screen w-full flex flex-col justify-center items-center text-center">
+          <h1>Reliable, efficient delivery</h1>
+          <h2>Powered by Technology</h2>
+          <h3 className="w-2/4 mt-6">
             Our Artificial Intelligence powered tools use millions of project
             data points to ensure that your project is successful
-          </h2>
+          </h3>
         </div>
 
         <div></div>
