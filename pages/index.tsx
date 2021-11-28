@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           points to ensure that your project is successful
         </h3>
 
-        <div className="flex flex-col md:flex-row justify-center items-center md:m-10 my-10 gap-4">
+        <div className="flex flex-col md:flex-row justify-center items-center lg:m-10 my-10 gap-4">
           <div className="flex justify-center items-center">
             <Card
               title="Supervisor"
