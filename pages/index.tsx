@@ -20,7 +20,7 @@ const Home: NextPage = () => {
       <main className="min-h-screen flex flex-col justify-center items-center text-center m-6">
         <h1>Reliable, efficient delivery</h1>
         <h2>Powered by Technology</h2>
-        <h3 className="md:w-2/4 mt-6">
+        <h3 className="lg:w-2/4 md:w-3/4 mt-6">
           Our Artificial Intelligence powered tools use millions of project data
           points to ensure that your project is successful
         </h3>
