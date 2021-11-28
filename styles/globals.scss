@@ -44,3 +44,22 @@ h3 {
   line-height: 25px;
   letter-spacing: 0.1px;
 }
+
+h4 {
+  @apply text-gray;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+p {
+  @apply text-gray;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 23px;
+  letter-spacing: 0.09px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
