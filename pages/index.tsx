@@ -30,6 +30,7 @@ const Home: NextPage = () => {
             <Card
               title="Supervisor"
               content="Monitors activity to identify project roadblocks"
+              borderColor="cyan"
               Icon={SupervisorIcon}
               iconAlt=""
             />
@@ -39,6 +40,7 @@ const Home: NextPage = () => {
             <Card
               title="Team Builder"
               content="Scans our talent network to create the optimal team for your project"
+              borderColor="red"
               Icon={TeamBuilderIcon}
               iconAlt=""
             />
@@ -46,6 +48,7 @@ const Home: NextPage = () => {
             <Card
               title="Karma"
               content="Regularly evaluates our talent to ensure quality"
+              borderColor="orange"
               Icon={KarmaIcon}
               iconAlt=""
             />
@@ -54,6 +57,7 @@ const Home: NextPage = () => {
             <Card
               title="Calculator"
               content="Uses data from past projects to provide better delivery estimates"
+              borderColor="blue"
               Icon={CalculatorIcon}
               iconAlt=""
             />
